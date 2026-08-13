@@ -1,1 +1,70 @@
-1
+{
+  "siteSettings": {
+    "title": "Gh👻st_ VIP Panel",
+    "subtitle": "FREE FIRE PC - 100% ANTI-BAN & AUTO HEADSHOT",
+    "titleColor": "#ff3b3b",
+    "subtitleColor": "#bbbbbb",
+    "backgroundColor": "#0d0d0d"
+  },
+  "plans": [
+    {
+      "name": "Ghost Teleport",
+      "price": "৳ ১০০০",
+      "duration": "/মাস",
+      "themeColor": "#00ffcc",
+      "buttonText": "কিনে নিন",
+      "isPremium": false,
+      "features": [
+        "ম্যাজিক বুলেট (Basic)",
+        "এআইমবট ফাস্ট লক",
+        "অ্যান্টেনা ভিউ",
+        "বাইপাস প্রোটেকশন (নরমাল)"
+      ]
+    },
+    {
+      "name": "Ghost Basic",
+      "price": "৳ ১৫০০",
+      "duration": "/মাস",
+      "themeColor": "#00ffcc",
+      "buttonText": "কিনে নিন",
+      "isPremium": false,
+      "features": [
+        "অটো হেডশট (৮০%)",
+        "ফাস্ট ওয়াল+মুভমেন্ট",
+        "ওয়াল হ্যাক (লিমিটেড)",
+        "১০০% অ্যান্টি-ব্ল্যাকলিস্ট",
+        "বেসিক কাস্টমার সাপোর্ট"
+      ]
+    },
+    {
+      "name": "Ghost Prime",
+      "price": "৳ ২৫০০",
+      "duration": "/মাস",
+      "themeColor": "#00ffcc",
+      "buttonText": "কিনে নিন",
+      "isPremium": false,
+      "features": [
+        "ড্র্যাগ হেডশট (৯৯%)",
+        "ম্যাজিক বুলেট ট্র্যাকিং",
+        "ইনভিজিবল ওয়াল হ্যাক",
+        "নো রিকয়েল (No Recoil)",
+        "ভিআইপি বাইপাস সিস্টেম"
+      ]
+    },
+    {
+      "name": "Ghost Premium",
+      "price": "৳ ৩০০০",
+      "duration": "/মাস",
+      "themeColor": "#ffd700",
+      "buttonText": "কিনে নিন",
+      "isPremium": true,
+      "features": [
+        "ব্রুটাল অটো হেডশট (১০০%) ☠️",
+        "ম্যাজিক ফ্লাই হ্যাক + টেলিপোর্ট",
+        "মেইন আইডির জন্য ১০০% সেফ",
+        "ইউটিউবারদের প্রাইভেট প্যানেল",
+        "২৪/৭ লাইভ ইনস্টলেশন সাপোর্ট"
+      ]
+    }
+  ]
+}
