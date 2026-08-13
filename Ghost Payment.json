@@ -2,9 +2,9 @@
   "siteName": "Gh👻st_Payment",
   "headerLogo": "https://i.ibb.co.com/HfZfHNxR/file-0000000033d871fa847b05efa4141d75.png",
   "mobileBankingText": "মোবাইল ব্যাংকিং",
-  "payButtonText": "পে করুন 155.00",
-  "amountText": "৳ 155",
-  "amountValue": "155",
+  "payButtonText": "সেন্ড মানি করুন",
+  "amountText": "",
+  "amountValue": "",
   "modal": {
     "transactionLabel": "ট্রানজেকশন আইডি দিন",
     "transactionPlaceholder": "ট্রানজেকশন আইডি দিন",
