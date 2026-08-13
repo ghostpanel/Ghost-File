@@ -7,7 +7,7 @@
   "amountValue": "",
   "modal": {
     "transactionLabel": "ট্রানজেকশন আইডি দিন",
-    "transactionPlaceholder": "<span style=\"color: red;\">ট্রানজেকশন আইডি দিন</span>",
+    "transactionPlaceholder": "ট্রানজেকশন আইডি দিন",
     "copyBtnText": "কপি",
     "verifyBtnText": "ভেরিফাই",
     "steps": [
@@ -37,7 +37,7 @@
       "boxColor": "#ed1c24",
       "btnColor": "#c4141c",
       "ussd": "*167#",
-      "number": "01891480574"
+      "number": "01907293620"
     },
     {
       "name": "Rocket",
@@ -46,7 +46,7 @@
       "boxColor": "#8c1596",
       "btnColor": "#72107b",
       "ussd": "*322#",
-      "number": "01891480574"
+      "number": "01907293620"
     },
     {
       "name": "Upay",
