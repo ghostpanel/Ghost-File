@@ -28,7 +28,7 @@
       "boxColor": "#e2136e",
       "btnColor": "#b80f55",
       "ussd": "*247#",
-      "number": "01351653370"
+      "number": "01907293620"
     },
     {
       "name": "Nagad",
@@ -37,7 +37,7 @@
       "boxColor": "#ed1c24",
       "btnColor": "#c4141c",
       "ussd": "*167#",
-      "number": "01351653370"
+      "number": "01907293620"
     },
     {
       "name": "Rocket",
@@ -46,7 +46,7 @@
       "boxColor": "#8c1596",
       "btnColor": "#72107b",
       "ussd": "*322#",
-      "number": "01748973775"
+      "number": "01907293620"
     },
     {
       "name": "Upay",
@@ -55,7 +55,7 @@
       "boxColor": "#0056a4",
       "btnColor": "#004382",
       "ussd": "*268#",
-      "number": "01748973775"
+      "number": "01907293620"
     },
     {
       "name": "CellFin",
@@ -64,7 +64,7 @@
       "boxColor": "#00502b",
       "btnColor": "#003b1f",
       "ussd": "",
-      "number": "01748973775"
+      "number": "01907293620"
     },
     {
       "name": "Tap",
@@ -73,7 +73,7 @@
       "boxColor": "#00a651",
       "btnColor": "#008742",
       "ussd": "*283#",
-      "number": "01748973775"
+      "number": "01907293620"
     }
   ]
 }
